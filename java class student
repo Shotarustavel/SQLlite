@@ -1,0 +1,11 @@
+package com.example.kobinath.courseregapp;
+
+public class student {
+
+    String id;
+    String name;
+    String Course;
+    String Fee;
+    String titles;
+
+}
